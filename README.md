@@ -17,7 +17,7 @@ OpenCore for OpenCore-ASRock-B75-Pro3-M with G1610
 
 ## Before installation
 ### Edit config.plist
-Using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own SMBIOS information(chose the iMac20,2 SMBIOS) and write to config.plist
+Using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate your own SMBIOS information(choose the iMac20,2 SMBIOS) and write to config.plist
 
 * The Type part gets copied to Generic -> SystemProductName.
 
